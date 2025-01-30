@@ -6,6 +6,15 @@ Date: 21/12/2022
 
 Proposed
 
+## Summary (Y-Statement)
+
+**In the context of** implementing UI components in React.js,  
+**facing** inconsistencies in our components and designs,  
+**we decided for** adopting a component library,  
+**and neglected** nothing,  
+**to achieve** consistency, accessibility, and speed in design and implementation,  
+**accepting** the fact that we might lose a small amount of creative freedom.
+
 ## Context
 
 Currently, the new platform's web application UI, implements _almost_ all of its components from the ground up. This approach gave us a lot of creative freedom while designing and implementing the building blocks of our application. Unfortunately, it also hinders the development process, by adding extra complexity to the implementation, and increasing the time to market. The extra complexity also means added risk, as we need to maintain and evolve the components to ensure they are accessible, extendable, and performant.
